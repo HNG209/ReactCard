@@ -1,21 +1,11 @@
 import './Card'
 import Card from './Card'
+import CardList from './CardList'
 
 function App() {
 
   return (
-    <>
-      <Card></Card>
-      <Card></Card>
-      <Card></Card>
-      <Card></Card>
-      <Card></Card>
-      <Card></Card>
-      <Card></Card>
-      <Card></Card>
-      <Card></Card>
-      <Card></Card>
-    </>
+    <CardList></CardList>
   )
 }
 

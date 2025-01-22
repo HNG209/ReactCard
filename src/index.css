@@ -1,7 +1,8 @@
 .card {
   border: 1px solid hsl(0, 0%, 78%);
   border-radius: 10px;
-  max-width: 220px;
+  width: 200px;
+  height: 300px;
   text-align: center;
   padding: 15px;
   box-shadow: 5px 5px 5px hsl(0, 2%, 76%);
